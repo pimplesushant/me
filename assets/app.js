@@ -13,8 +13,8 @@ const COMMANDS = {
         "<span class=\"code\">Technologies : </span> Git, Docker, Linux, NGINX, Apache, MySQL<br>\n" +
         "<span class=\"code\">Frameworks : </span> Laravel, CodeIgniter, Bootstrap, jQuery, WordPress<br>\n" +
         "<span class=\"code\">Tools & IDE's: </span> PhpStorm, Notepad++, JIRA, Active Collab, Slack<br>",
-    education: "University of Pune<br>Master of Computer Application — Emphasis in Web Development" +
-        "SRTM University, Nanded<br>Bachelor of Computer Application — Emphasis in Computer Programming",
+    education: "University of Pune<br>&#8618; Master of Computer Application — Emphasis in Web Development <br>" +
+        "SRTM University, Nanded<br>&#8618; Bachelor of Computer Application — Emphasis in Computer Programming <br>",
     resume: "<a href='http://pimplesushant.in/SushantPimpleProfile.pdf' class='success link'>SushantPimpleProfile.pdf</a>",
     experience: "Perennial Systems, Pune, 🇮🇳 <br>&#8618; <small>Sr. Associate in Development Track - Since Nov. 2017</small><br>" +
         "Wayzon Technoloy Services Pvt Ltd, Pune, 🇮🇳 <br>&#8618; <small>Sr. PHP Developer - Jul. 2017 - Oct. 2017</small><br>" +
