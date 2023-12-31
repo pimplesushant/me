@@ -10,13 +10,14 @@ const COMMANDS = {
         "because there are so many ways to achieve the same goal when you code and I like to find the optimal one for each scenario. <br>" +
         "I am a good listener and always ready to help. You can get in touch with me on the networks in sidebar. I'd love to hear from you.",
     skills: "<span class=\"code\">Languages : </span> PHP, JavaScript, Python, HTML<br>\n" +
-        "<span class=\"code\">Technologies : </span> Git, Docker, Linux, NGINX, Apache, MySQL<br>\n" +
+        "<span class=\"code\">Technologies : </span> Git, Docker, Linux, Apache, MySQL<br>\n" +
         "<span class=\"code\">Frameworks : </span> Laravel, CodeIgniter, Bootstrap, jQuery, WordPress<br>\n" +
-        "<span class=\"code\">Tools & IDE's: </span> PhpStorm, Notepad++, JIRA, Active Collab, Slack<br>",
+        "<span class=\"code\">Tools & IDE's: </span> PhpStorm, Notepad++, JIRA, Slack<br>",
     education: "University of Pune<br>&#8618; Master of Computer Application — Emphasis in Web Development <br>" +
         "SRTM University, Nanded<br>&#8618; Bachelor of Computer Application — Emphasis in Computer Programming <br>",
     resume: "<a href='http://pimplesushant.in/SushantPimpleProfile.pdf' class='success link'>SushantPimpleProfile.pdf</a>",
-    experience: "Perennial Systems, Pune, 🇮🇳 <br>&#8618; <small>Sr. Associate in Development Track - Since Nov. 2017</small><br>" +
+    experience: "Cybage Software Pvt Ltd, Pune, 🇮🇳 <br>&#8618; <small>System Analyst - Since Jun. 2020</small><br>" +
+        "Perennial Systems, Pune, 🇮🇳 <br>&#8618; <small>Sr. Associate in Development Track - Nov. 2017 - Apr. 2020</small><br>" +
         "Wayzon Technoloy Services Pvt Ltd, Pune, 🇮🇳 <br>&#8618; <small>Sr. PHP Developer - Jul. 2017 - Oct. 2017</small><br>" +
         "Artistize, Pune, 🇮🇳 <br>&#8618; <small>Associate Developer - Mar. 2017 - Jun. 2017</small><br>" +
         "Dynamisch IT Pvt Ltd, Pune, 🇮🇳 <br>&#8618; <small>Software Engineer - Jul. 2013 - Feb. 2017</small><br>" +
